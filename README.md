@@ -1,5 +1,6 @@
-# DOOM style 3d (raycasting) game in Python (based on Wolfenstein 3d)
+# PROJECT DOOM
+There is no need to talk much about it, the classic DOOM game, the ancestor of the FPS genre, 
+is re-made with Python programming language and PyGame library. 
 
-Control: 'WASD' + mouse
-
-![doom](/sreenshots/0.jpg)
+I made this project by following the tutorials on the Coder Space youtube channel. If you want 
+to make a DOOM clone like the one below, just visit the channel
