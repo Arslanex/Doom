@@ -1,7 +1,6 @@
 # PROJECT: DOOM 😈
 There is no need to talk much about it, the classic DOOM game, the ancestor of the FPS genre, 
 is re-made with Python programming language and PyGame library. It was a project that was fun 
-
 to make and even more fun to try. I think it is a very nice project idea for object oriented 
 programming with Python.
 
